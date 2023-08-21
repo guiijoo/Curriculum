@@ -1,0 +1,26 @@
+body
+{
+    background-image: url("imagens/bg.png");
+}
+
+div
+{
+    background-color: white;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+h1
+{
+    margin: 10px;
+    color: white;
+}
+
+.div1
+{
+    background-color: rgba(0, 0, 154, 0.586);
+}
+.foto
+{
+    size-adjust: 64px;
+}
