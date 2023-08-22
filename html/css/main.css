@@ -12,9 +12,9 @@ body
     padding-right: 15%;
 }
 
-div
+.habilidade
 {
-    background-color: rgba(255, 255, 255, 0.179);
+    background-color: rgb(255, 255, 255);
 }
 
 h1.nome
@@ -45,8 +45,8 @@ p.curso
     float: left;
     border-radius: 10px;
     margin: 10px;
-    scale: 100%
-;
+    scale: 100%;
+    filter: brightness(1.5);
 }
 
 .wpp-txt, .git-txt, .in-txt
